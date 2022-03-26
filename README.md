@@ -1,5 +1,5 @@
-# GnomeQtTheme
-A simple script to make Qt apps look native in Gnome.
+# Gnome Qt Theme
+A simple script to make Qt apps look better in Gnome
 
 ## Installation
 
@@ -12,5 +12,5 @@ That's it!
 
 ## Configuration
 
-\After installing Kvantum, you can apply and install new themes for Qt apps.\
+After installing Kvantum, you can apply and install new themes for Qt apps.\
 You can use the default ones or find new ones on https://pling.com
